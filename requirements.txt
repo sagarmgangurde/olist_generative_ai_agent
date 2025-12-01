@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+pandas
+streamlit
+langchain==0.2.11
+langchain-core
+langchain-community
+langchain-groq
+faiss-cpu
+pydantic
+numpy
